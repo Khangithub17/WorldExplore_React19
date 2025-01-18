@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Vapi, Gujarat"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9998111714"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "codewithkhan17@gmail.com"
+    }
+  ]
