@@ -41,7 +41,7 @@ const Footers = () => {
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2025, All Right Reserved
-                <NavLink to="https://thapatechnical.shop/" target="_blank">
+                <NavLink to="http://codewithkhan.site/" target="_blank">
                  Shahbaz Khan
                 </NavLink>
               </p>
