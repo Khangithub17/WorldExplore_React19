@@ -23,7 +23,7 @@ const Contact = () => {
           type="text"
           className="form-control"
           required
-          autoComplete="false"
+          autoComplete="off"
           placeholder="Enter your name"
           name="username"
         />
